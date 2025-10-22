@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to QA Loans service"
+  message: "Welcome to quality assurance Loans service"
   contactInfoDetails:
     name: "Carol Saunders"
     email: "carol@mail.com"
