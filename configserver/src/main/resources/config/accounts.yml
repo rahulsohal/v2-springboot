@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Sample Message"
+  message: "Welcome to default account service"
   contactDetails:
-    name: "Rahul Sohal"
+    name: "Rahul Sohal-Architect"
     email: "rahulsohal@mail.com"
   onCallSupport:
     - 99929384929
