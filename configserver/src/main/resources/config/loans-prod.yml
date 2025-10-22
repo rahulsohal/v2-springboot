@@ -2,7 +2,7 @@ build:
   version: 1.1
 
 loans:
-  message: "Welcome to Prod Loans service"
+  message: "Welcome to PROD Loans service"
   contactInfoDetails:
     name: "Piyush Gulati"
     email: "piyush@mail.com"
