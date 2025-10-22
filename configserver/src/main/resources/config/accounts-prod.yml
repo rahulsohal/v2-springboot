@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Sample Message"
+  message: "Welcome to the PROD account service"
   contactDetails:
     name: "Product Owner"
     email: "rahulsohal@mail.com"

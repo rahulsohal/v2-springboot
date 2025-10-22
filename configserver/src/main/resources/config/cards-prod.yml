@@ -2,7 +2,7 @@ build:
   version: 1.1
 
 cards:
-  message: "Welcome to the Cards Prod service"
+  message: "Welcome to the Cards PROD service"
   contactDetails:
     name: "Jeyandran Kumar"
     email: "jey@mail.com"
