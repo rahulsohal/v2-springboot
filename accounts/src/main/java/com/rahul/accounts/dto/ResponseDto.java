@@ -1,0 +1,1 @@
+package com.rahul.accounts.dto;public record ResponseDto(String statusCode, String statusMessage) {}

@@ -1,0 +1,12 @@
+build:
+  version: 1.1
+
+cards:
+  message: "Welcome to the Cards Prod service"
+  contactDetails:
+    name: "Jeyandran Kumar"
+    email: "jey@mail.com"
+  onCallSupport:
+    - (937) 401-000
+    - (937) 401-001
+

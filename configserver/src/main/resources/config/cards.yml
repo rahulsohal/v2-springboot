@@ -1,0 +1,10 @@
+build:
+  version: 4.3
+cards:
+  message: "Welcome to the default Cards service"
+  contactDetails:
+    name: "Shruti Vasani"
+    email: "shruti@mail.com"
+  onCallSupport:
+    - (312) 000-414
+    - (312) 000-415

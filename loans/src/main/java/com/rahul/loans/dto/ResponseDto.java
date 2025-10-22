@@ -1,0 +1,1 @@
+package com.rahul.loans.dto;import java.io.Serializable;public record ResponseDto(String statusCode, String statusMessage) {}

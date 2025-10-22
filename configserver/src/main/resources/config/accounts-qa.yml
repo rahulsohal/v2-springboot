@@ -1,0 +1,8 @@
+accounts:
+  message: "Sample Message"
+  contactDetails:
+    name: "Tech Lead"
+    email: "lead@mail.com"
+  onCallSupport:
+    - 88829384929
+    - 87883892929

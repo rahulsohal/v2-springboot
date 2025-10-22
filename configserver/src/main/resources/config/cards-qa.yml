@@ -1,0 +1,10 @@
+build:
+  version: 2.1
+cards:
+  message: "Welcome to the Cards QA service"
+  contactDetails:
+    name: "Raj Verma"
+    email: "raj@mail.com"
+  onCallSupport:
+    - (545) 777-969
+    - (545) 777-968

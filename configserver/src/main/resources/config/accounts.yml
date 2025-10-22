@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Sample Message"
+  contactDetails:
+    name: "Rahul Sohal"
+    email: "rahulsohal@mail.com"
+  onCallSupport:
+    - 99929384929
+    - 94983892929

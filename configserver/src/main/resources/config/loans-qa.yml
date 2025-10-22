@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to QA Loans service"
+  contactInfoDetails:
+    name: "Carol Saunders"
+    email: "carol@mail.com"
+  onCallSupport:
+    - (321) 204-052
+    - (321) 204-055

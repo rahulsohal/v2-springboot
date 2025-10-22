@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Sample Message"
+  contactDetails:
+    name: "Product Owner"
+    email: "rahulsohal@mail.com"
+  onCallSupport:
+    - 78729384929
+    - 77783892929

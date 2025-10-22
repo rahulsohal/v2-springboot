@@ -1,0 +1,11 @@
+build:
+  version: 4.2
+
+loans:
+  message: "Welcome to default Loans service"
+  contactInfoDetails:
+    name: "Aatish Jain"
+    email: "aatish@mail.com"
+  onCallSupport:
+    - (880) 549-847
+    - (880) 549-843
